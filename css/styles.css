@@ -1,0 +1,14 @@
+section#hero {
+    min-height: 20rem;
+    background-color: var(--pico-primary-background);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+section#hero h1 {
+    color: black;
+    font-size: 5rem;
+    text-align: center;
+}
